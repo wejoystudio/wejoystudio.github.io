@@ -1,2 +1,1 @@
-# wejoystudio.github.io
-wejoystudio.github.io
+# Website: wejoystudio.github.io
